@@ -6,8 +6,8 @@ export default function Resume() {
         <div className="bg-gradient-to-r from-purple-600 to-purple-800 p-8 rounded-t-2xl">
           <h1 className="text-4xl font-bold text-white mb-2">Bradyn Blackburn</h1>
           <div className="text-purple-100 space-y-1">
-            <p>📧 bradyn.blackburn@email.com</p>
-            <p>📱 (555) 123-4567</p>
+            <p>📧 playfabauth.cs@gmail.com</p>
+            <p>📱 (334) 580-7800</p>
             <p>📍 Elmore County, Alabama</p>
           </div>
         </div>
